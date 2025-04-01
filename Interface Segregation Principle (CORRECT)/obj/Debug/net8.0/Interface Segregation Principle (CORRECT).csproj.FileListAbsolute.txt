@@ -1,0 +1,15 @@
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\bin\Debug\net8.0\Interface Segregation Principle (CORRECT).exe
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\bin\Debug\net8.0\Interface Segregation Principle (CORRECT).deps.json
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\bin\Debug\net8.0\Interface Segregation Principle (CORRECT).runtimeconfig.json
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\bin\Debug\net8.0\Interface Segregation Principle (CORRECT).dll
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\bin\Debug\net8.0\Interface Segregation Principle (CORRECT).pdb
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).AssemblyInfoInputs.cache
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).AssemblyInfo.cs
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).csproj.CoreCompileInputs.cache
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).sourcelink.json
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).dll
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\refint\Interface Segregation Principle (CORRECT).dll
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).pdb
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\Interface Segregation Principle (CORRECT).genruntimeconfig.cache
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Interface Segregation Principle (CORRECT)\obj\Debug\net8.0\ref\Interface Segregation Principle (CORRECT).dll

@@ -1,0 +1,15 @@
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).exe
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).deps.json
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).runtimeconfig.json
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).dll
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\bin\Debug\net8.0\Dependency Inversion Principle (CORRECT).pdb
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).AssemblyInfoInputs.cache
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).AssemblyInfo.cs
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).csproj.CoreCompileInputs.cache
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).sourcelink.json
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).dll
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\refint\Dependency Inversion Principle (CORRECT).dll
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).pdb
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\Dependency Inversion Principle (CORRECT).genruntimeconfig.cache
+C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle (CORRECT)\obj\Debug\net8.0\ref\Dependency Inversion Principle (CORRECT).dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lMbW/ivNjxg=",
+  "dgSpecHash": "MXjwOXhoS3s=",
   "success": true,
-  "projectFilePath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj",
+  "projectFilePath": "C:\\Patrones de Software (Ejercicios)\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
