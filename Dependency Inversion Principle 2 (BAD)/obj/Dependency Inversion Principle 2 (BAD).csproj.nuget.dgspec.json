@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj": {}
+  },
+  "projects": {
+    "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj",
+        "projectName": "Dependency Inversion Principle 2 (BAD)",
+        "projectPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj",
+        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
+        "outputPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

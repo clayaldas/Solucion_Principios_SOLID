@@ -1,0 +1,14 @@
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle (BAD).exe
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle (BAD).deps.json
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle (BAD).runtimeconfig.json
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle (BAD).dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle (BAD).pdb
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).AssemblyInfoInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).AssemblyInfo.cs
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).csproj.CoreCompileInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\refint\Interface Segregation Principle (BAD).dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).pdb
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle (BAD).genruntimeconfig.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Interface Segregation Principle\obj\Debug\net8.0\ref\Interface Segregation Principle (BAD).dll

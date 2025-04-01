@@ -1,0 +1,14 @@
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\bin\Debug\net8.0\Dependency Inversion Principle 2 (BAD).exe
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\bin\Debug\net8.0\Dependency Inversion Principle 2 (BAD).deps.json
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\bin\Debug\net8.0\Dependency Inversion Principle 2 (BAD).runtimeconfig.json
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\bin\Debug\net8.0\Dependency Inversion Principle 2 (BAD).dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\bin\Debug\net8.0\Dependency Inversion Principle 2 (BAD).pdb
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).AssemblyInfoInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).AssemblyInfo.cs
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).csproj.CoreCompileInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\refint\Dependency Inversion Principle 2 (BAD).dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).pdb
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\Dependency Inversion Principle 2 (BAD).genruntimeconfig.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle 2 (BAD)\obj\Debug\net8.0\ref\Dependency Inversion Principle 2 (BAD).dll

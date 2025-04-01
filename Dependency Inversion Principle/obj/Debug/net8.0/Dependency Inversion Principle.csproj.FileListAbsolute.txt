@@ -1,0 +1,14 @@
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.exe
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.deps.json
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.runtimeconfig.json
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.pdb
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.AssemblyInfoInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.AssemblyInfo.cs
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.csproj.CoreCompileInputs.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\refint\Dependency Inversion Principle.dll
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.pdb
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.genruntimeconfig.cache
+D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\Dependency Inversion Principle\obj\Debug\net8.0\ref\Dependency Inversion Principle.dll
