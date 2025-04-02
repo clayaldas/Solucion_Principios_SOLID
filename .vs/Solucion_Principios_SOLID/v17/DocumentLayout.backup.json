@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\",
+  "WorkspaceRootPath": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FA49260-8413-4DF4-8F25-EE554AD43900}|SOLID (BAD)\\SOLID (BAD).csproj|d:\\ejercicios_clases\\patrones de software\\solucion_principios_solid\\solid (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FA49260-8413-4DF4-8F25-EE554AD43900}|SOLID (BAD)\\SOLID (BAD).csproj|e:\\patrones de software (ejercicios)\\solucion_principios_solid\\solid (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FA49260-8413-4DF4-8F25-EE554AD43900}|SOLID (BAD)\\SOLID (BAD).csproj|solutionrelative:solid (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\Program.cs",
+              "DocumentMoniker": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\Program.cs",
               "RelativeDocumentMoniker": "SOLID (BAD)\\Program.cs",
-              "ToolTip": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\Program.cs",
               "RelativeToolTip": "SOLID (BAD)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:46:46.233Z",
+              "WhenOpened": "2025-04-02T17:37:57.104Z",
               "EditorCaption": ""
             }
           ]

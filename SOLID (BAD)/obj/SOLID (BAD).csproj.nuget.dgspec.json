@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj": {}
+    "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj": {}
   },
   "projects": {
-    "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj": {
+    "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj",
+        "projectUniqueName": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj",
         "projectName": "SOLID (BAD)",
-        "projectPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\obj\\",
+        "projectPath": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\SOLID (BAD).csproj",
+        "packagesPath": "C:\\Users\\DOCENTE\\.nuget\\packages\\",
+        "outputPath": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (BAD)\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DOCENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

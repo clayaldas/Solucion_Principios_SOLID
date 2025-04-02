@@ -13,3 +13,18 @@ D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\SOLID (BAD)\
 D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).pdb
 D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).genruntimeconfig.cache
 D:\Ejercicios_Clases\Patrones de Software\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\ref\SOLID (BAD).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\bin\Debug\net8.0\SOLID (BAD).exe
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\bin\Debug\net8.0\SOLID (BAD).deps.json
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\bin\Debug\net8.0\SOLID (BAD).runtimeconfig.json
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\bin\Debug\net8.0\SOLID (BAD).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\bin\Debug\net8.0\SOLID (BAD).pdb
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).GeneratedMSBuildEditorConfig.editorconfig
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).AssemblyInfoInputs.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).AssemblyInfo.cs
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).csproj.CoreCompileInputs.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).sourcelink.json
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\refint\SOLID (BAD).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).pdb
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\SOLID (BAD).genruntimeconfig.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (BAD)\obj\Debug\net8.0\ref\SOLID (BAD).dll

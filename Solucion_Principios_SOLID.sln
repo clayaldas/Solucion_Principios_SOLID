@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency Inversion Princi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency Inversion Principle 2 (BAD)", "Dependency Inversion Principle 2 (BAD)\Dependency Inversion Principle 2 (BAD).csproj", "{1512E50C-9170-4E32-85F0-C93B058120C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface Segregation Principle (CORRECT)", "Interface Segregation Principle (CORRECT)\Interface Segregation Principle (CORRECT).csproj", "{42D06E9E-7FD1-47D8-85A0-4F4507EBD915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface Segregation Principle (CORRECT)", "Interface Segregation Principle (CORRECT)\Interface Segregation Principle (CORRECT).csproj", "{42D06E9E-7FD1-47D8-85A0-4F4507EBD915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Inversion Principle (CORRECT)", "Dependency Inversion Principle (CORRECT)\Dependency Inversion Principle (CORRECT).csproj", "{D3F6D178-8063-488A-B2B7-DC8727BCDEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency Inversion Principle (CORRECT)", "Dependency Inversion Principle (CORRECT)\Dependency Inversion Principle (CORRECT).csproj", "{D3F6D178-8063-488A-B2B7-DC8727BCDEEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID (BAD)", "SOLID (BAD)\SOLID (BAD).csproj", "{5FA49260-8413-4DF4-8F25-EE554AD43900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID (BAD)", "SOLID (BAD)\SOLID (BAD).csproj", "{5FA49260-8413-4DF4-8F25-EE554AD43900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Inversion Principle 2 (CORRECT)", "Dependency Inversion Principle 2 (CORRECT)\Dependency Inversion Principle 2 (CORRECT).csproj", "{BFBC0549-8935-4503-8494-1907CDEAFFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID (CORRECT)", "SOLID (CORRECT)\SOLID (CORRECT).csproj", "{C5A4324A-F132-4DB5-806F-00976C52EEFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5FA49260-8413-4DF4-8F25-EE554AD43900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA49260-8413-4DF4-8F25-EE554AD43900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA49260-8413-4DF4-8F25-EE554AD43900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBC0549-8935-4503-8494-1907CDEAFFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBC0549-8935-4503-8494-1907CDEAFFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBC0549-8935-4503-8494-1907CDEAFFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBC0549-8935-4503-8494-1907CDEAFFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A4324A-F132-4DB5-806F-00976C52EEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A4324A-F132-4DB5-806F-00976C52EEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A4324A-F132-4DB5-806F-00976C52EEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A4324A-F132-4DB5-806F-00976C52EEFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
