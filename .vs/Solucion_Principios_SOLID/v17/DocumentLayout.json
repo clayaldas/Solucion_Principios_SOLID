@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Patrones de Software (Ejercicios)\\Solucion_Principios_SOLID\\",
+  "WorkspaceRootPath": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1512E50C-9170-4E32-85F0-C93B058120C4}|Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj|c:\\patrones de software (ejercicios)\\solucion_principios_solid\\dependency inversion principle 2 (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1512E50C-9170-4E32-85F0-C93B058120C4}|Dependency Inversion Principle 2 (BAD)\\Dependency Inversion Principle 2 (BAD).csproj|solutionrelative:dependency inversion principle 2 (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FA49260-8413-4DF4-8F25-EE554AD43900}|SOLID (BAD)\\SOLID (BAD).csproj|d:\\ejercicios_clases\\patrones de software\\solucion_principios_solid\\solid (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA49260-8413-4DF4-8F25-EE554AD43900}|SOLID (BAD)\\SOLID (BAD).csproj|solutionrelative:solid (bad)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Patrones de Software (Ejercicios)\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Program.cs",
-              "RelativeDocumentMoniker": "Dependency Inversion Principle 2 (BAD)\\Program.cs",
-              "ToolTip": "C:\\Patrones de Software (Ejercicios)\\Solucion_Principios_SOLID\\Dependency Inversion Principle 2 (BAD)\\Program.cs",
-              "RelativeToolTip": "Dependency Inversion Principle 2 (BAD)\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA8wDAAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID (BAD)\\Program.cs",
+              "ToolTip": "D:\\Ejercicios_Clases\\Patrones de Software\\Solucion_Principios_SOLID\\SOLID (BAD)\\Program.cs",
+              "RelativeToolTip": "SOLID (BAD)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T15:52:20.933Z",
+              "WhenOpened": "2025-04-02T03:46:46.233Z",
               "EditorCaption": ""
             }
           ]
