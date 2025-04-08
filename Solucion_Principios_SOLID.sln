@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency Inversion Princi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID (BAD)", "SOLID (BAD)\SOLID (BAD).csproj", "{5FA49260-8413-4DF4-8F25-EE554AD43900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Inversion Principle 2 (CORRECT)", "Dependency Inversion Principle 2 (CORRECT)\Dependency Inversion Principle 2 (CORRECT).csproj", "{BFBC0549-8935-4503-8494-1907CDEAFFC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependency Inversion Principle 2 (CORRECT)", "Dependency Inversion Principle 2 (CORRECT)\Dependency Inversion Principle 2 (CORRECT).csproj", "{BFBC0549-8935-4503-8494-1907CDEAFFC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID (CORRECT)", "SOLID (CORRECT)\SOLID (CORRECT).csproj", "{C5A4324A-F132-4DB5-806F-00976C52EEFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID (CORRECT)", "SOLID (CORRECT)\SOLID (CORRECT).csproj", "{C5A4324A-F132-4DB5-806F-00976C52EEFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -20,6 +20,8 @@
   {
     public void GenerateReport(string reportType)
     {
+     
+       // 1: SRP
       if (reportType == "PDF")
       {
         Console.WriteLine("Generando reporte en PDF...");
@@ -34,6 +36,7 @@
       }
     }
 
+    // 3: ISP
     public void SaveToFile()
     {
       Console.WriteLine("Guardando reporte en un archivo...");
