@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "fisei.uta.edu.ec.utils/1.0.0": {
+        "runtime": {
+          "fisei.uta.edu.ec.utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fisei.uta.edu.ec.utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

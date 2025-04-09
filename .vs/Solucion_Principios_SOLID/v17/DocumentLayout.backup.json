@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Patrones de Software (Ejercicios)\\Solucion_Principios_SOLID\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C6A005-29E2-41BC-B939-B1D6819CE49C}|fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj|e:\\patrones de software (ejercicios)\\solucion_principios_solid\\fisei.uta.edu.ec.utils\\1. srp\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6A005-29E2-41BC-B939-B1D6819CE49C}|fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj|solutionrelative:fisei.uta.edu.ec.utils\\1. srp\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C6A005-29E2-41BC-B939-B1D6819CE49C}|fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj|e:\\patrones de software (ejercicios)\\solucion_principios_solid\\fisei.uta.edu.ec.utils\\1. srp\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6A005-29E2-41BC-B939-B1D6819CE49C}|fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj|solutionrelative:fisei.uta.edu.ec.utils\\1. srp\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C6A005-29E2-41BC-B939-B1D6819CE49C}|fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj|e:\\patrones de software (ejercicios)\\solucion_principios_solid\\fisei.uta.edu.ec.utils\\matemathics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C6A005-29E2-41BC-B939-B1D6819CE49C}|fisei.uta.edu.ec.utils\\fisei.uta.edu.ec.utils.csproj|solutionrelative:fisei.uta.edu.ec.utils\\matemathics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4324A-F132-4DB5-806F-00976C52EEFA}|SOLID (CORRECT)\\SOLID (CORRECT).csproj|e:\\patrones de software (ejercicios)\\solucion_principios_solid\\solid (correct)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A4324A-F132-4DB5-806F-00976C52EEFA}|SOLID (CORRECT)\\SOLID (CORRECT).csproj|solutionrelative:solid (correct)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A4324A-F132-4DB5-806F-00976C52EEFA}|SOLID (CORRECT)\\SOLID (CORRECT).csproj|e:\\patrones de software (ejercicios)\\solucion_principios_solid\\solid (correct)\\solid (correct).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5A4324A-F132-4DB5-806F-00976C52EEFA}|SOLID (CORRECT)\\SOLID (CORRECT).csproj|solutionrelative:solid (correct)\\solid (correct).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\fisei.uta.edu.ec.utils\\1. SRP\\IReport.cs",
+              "RelativeDocumentMoniker": "fisei.uta.edu.ec.utils\\1. SRP\\IReport.cs",
+              "ToolTip": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\fisei.uta.edu.ec.utils\\1. SRP\\IReport.cs",
+              "RelativeToolTip": "fisei.uta.edu.ec.utils\\1. SRP\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:24:45.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (CORRECT)\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID (CORRECT)\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (CORRECT)\\Program.cs",
+              "RelativeToolTip": "SOLID (CORRECT)\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:08:16.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SOLID (CORRECT)",
+              "DocumentMoniker": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (CORRECT)\\SOLID (CORRECT).csproj",
+              "RelativeDocumentMoniker": "SOLID (CORRECT)\\SOLID (CORRECT).csproj",
+              "ToolTip": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\SOLID (CORRECT)\\SOLID (CORRECT).csproj",
+              "RelativeToolTip": "SOLID (CORRECT)\\SOLID (CORRECT).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T16:03:49.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\fisei.uta.edu.ec.utils\\1. SRP\\Test.cs",
+              "RelativeDocumentMoniker": "fisei.uta.edu.ec.utils\\1. SRP\\Test.cs",
+              "ToolTip": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\fisei.uta.edu.ec.utils\\1. SRP\\Test.cs",
+              "RelativeToolTip": "fisei.uta.edu.ec.utils\\1. SRP\\Test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:03:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matemathics.cs",
+              "DocumentMoniker": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\fisei.uta.edu.ec.utils\\Matemathics.cs",
+              "RelativeDocumentMoniker": "fisei.uta.edu.ec.utils\\Matemathics.cs",
+              "ToolTip": "E:\\Patrones de Software (EJERCICIOS)\\Solucion_Principios_SOLID\\fisei.uta.edu.ec.utils\\Matemathics.cs",
+              "RelativeToolTip": "fisei.uta.edu.ec.utils\\Matemathics.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:03:22.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

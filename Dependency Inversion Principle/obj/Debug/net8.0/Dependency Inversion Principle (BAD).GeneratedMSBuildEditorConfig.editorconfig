@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dependency_Inversion_Principle
-build_property.ProjectDir = C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\Dependency Inversion Principle\
+build_property.ProjectDir = E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\Dependency Inversion Principle\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

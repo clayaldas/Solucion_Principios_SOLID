@@ -13,3 +13,22 @@ C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\SOLID (CORRECT)\o
 C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).pdb
 C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).genruntimeconfig.cache
 C:\Patrones de Software (Ejercicios)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\ref\SOLID (CORRECT).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\SOLID (CORRECT).exe
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\SOLID (CORRECT).deps.json
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\SOLID (CORRECT).runtimeconfig.json
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\SOLID (CORRECT).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\SOLID (CORRECT).pdb
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\fisei.uta.edu.ec.utils.dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\bin\Debug\net8.0\fisei.uta.edu.ec.utils.pdb
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).csproj.AssemblyReference.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).GeneratedMSBuildEditorConfig.editorconfig
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).AssemblyInfoInputs.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).AssemblyInfo.cs
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).csproj.CoreCompileInputs.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).sourcelink.json
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (C.160F8684.Up2Date
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\refint\SOLID (CORRECT).dll
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).pdb
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\SOLID (CORRECT).genruntimeconfig.cache
+E:\Patrones de Software (EJERCICIOS)\Solucion_Principios_SOLID\SOLID (CORRECT)\obj\Debug\net8.0\ref\SOLID (CORRECT).dll

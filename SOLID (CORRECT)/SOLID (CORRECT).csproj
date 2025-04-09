@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\fisei.uta.edu.ec.utils\fisei.uta.edu.ec.utils.csproj" />
+  </ItemGroup>
+
 </Project>
